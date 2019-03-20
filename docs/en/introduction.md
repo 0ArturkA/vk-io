@@ -1,11 +1,11 @@
-# Введение
-VK-IO - Это мощный [Node.js](https://nodejs.org) модуль который позволяет вам легко взаимодействовать с ВКонтакте API благодаря упрощённому интерфейсу и своей гибкости предоставляя уровень абстракции над стандартным API.
+# Introduction
+VK-IO - This is a powerful [Node.js](https://nodejs.org) module that allows you to easily interact with the VK API thanks to a its simplified interface and its flexibility by providing a level of abstraction over the standard API.
 
-## Зачем?
-- Почти 100% покрытие API
-- 100% базируется на Promise
-- Быстрая и эффективная
-- Многофункциональная
+## What for?
+- Almost 100% API coverage
+- 100% based on Promise
+- Fast and efficient
+- Multifunctional
 
-## Предыстория
-В начале мне нужна была простая и удобная библиотека для работы с API, но каждый раз когда я пробовал новую библиотеку, она зачастую оказывалась неудобной или попросту не обновлялась уже пару лет. Так и появилась на свет `vk-io` которая учитывала все эти неудобства и исправила их на корню.
+## Prehistory
+In the beginning, I needed a simple and convenient library for working with APIs, but every time I tried a new library, it was often inconvenient or simply not updated for a couple of years. And so it came to light `vk-io` which took into account all these inconveniences and corrected them on the vine.
