@@ -1,8 +1,8 @@
-# Документация
+# Documentation
 
-* [Введение](introduction.md)
+* [Introduction](introduction.md)
 
-* Справка API
+* API Reference
 	* [VK](api-reference/vk.md)
 	* [API](api-reference/api.md)
 		* [Request](api-reference/request.md)
@@ -21,4 +21,4 @@
 		* [WallAttachment](api-reference/attachments/wall.md)
 	* [Keyboard](api-reference/buttons/keyboard.md)
 	* [Snippets](api-reference/snippets.md)
-	* ...Уже скоро
+	* ...Soon
